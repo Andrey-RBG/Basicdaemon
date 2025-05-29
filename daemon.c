@@ -2,8 +2,6 @@
 #include <stdlib.h>
 #include <sys/types.h>
 #include <unistd.h>
-#include <signal.h>
-#include <errno.h>
 
 int main() {
     pid_t pid;
